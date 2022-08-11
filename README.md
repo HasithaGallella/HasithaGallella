@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are Hyper Bit Technologies </h1>
+<h1 align="center">Welcome 👋, We are Hyper Bit Technologies </h1>
 <h3 align="center">to make a better world🌟.</h3>
 
 
