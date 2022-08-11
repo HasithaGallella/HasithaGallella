@@ -27,7 +27,7 @@
 ###
 <details>
     <summary><b>🛠️ My projects 🏼</b></summary><br/>
-    <b>-My AI chat bot; https://t.me/Gale_AI_Chatbot🏼</b>
+    <b>-My AI chat bot; https://t.me/Gale_AI_Chatbot  🏼</b>
     <b>-My YouTube channel; https://www.youtube.com/channel/UCS0qEplNFtfbG6gbGySLybQ</b>
 </details>
 <details>
