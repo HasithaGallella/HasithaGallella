@@ -32,12 +32,12 @@
 </details>
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    Kandy🏠|RAJAN🇱🇻|Mora Engineering🎓 >Programmer, Bot developer at Telegram, Math expert @photomath and the Founder of @h_b_academy ™️.❤️to Make a better🌏
-  
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
+    Kandy🏠|RAJAN🇱🇻|Mora Engineering🎓 >Programmer, Bot developer at Telegram, Math expert @photomath and the Founder of @h_b_academy ™️.❤️to Make a better🌏  .
 </details>
-
-
+<details>
+    <summary><b>💻 Let's code </b></summary><br/>
+    <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif"/>
+</details>
 
 
 <br>
