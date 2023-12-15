@@ -1,7 +1,8 @@
-<h1 align="center"> Hi, I'm Hasitha Gallella ,currently a student in the ENTC department at the University of Moratuwa, Sri Lanka. </h1>
+<h1 align="center"> Hi, I'm Hasitha Gallella, an Engineering undergraduate in the ENTC department at the University of Moratuwa, Sri Lanka. </h1>
 <h3 align="center"> My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, coding, and a strong grasp of data structures and algorithms. Additionally, I am well-versed in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.</h3>
+<!---
 <h3 align="center"> ✨ To make a better world✨.</h3>
-
+--->
 
 <div align="center">
   <img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" width="600" height="300"/>
