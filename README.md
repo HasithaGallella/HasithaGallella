@@ -57,10 +57,10 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://twitter.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/0969391f2048d6833d1650b9293e49279c7f46e8/Images/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://twitter.com/" target="blank"><img align="center"
-      src="Images/twitter.svg"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/0969391f2048d6833d1650b9293e49279c7f46e8/Images/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
