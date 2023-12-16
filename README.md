@@ -5,7 +5,7 @@
 --->
 
 <div align="center">
-  <img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" width="600" height="300"/>
+  <img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" width="200" height="100"/>
 </div>
 
 <p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
