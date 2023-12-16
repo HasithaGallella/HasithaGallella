@@ -7,8 +7,6 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 <br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
-<br/>
-
 
 
 <!---
