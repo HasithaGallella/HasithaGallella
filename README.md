@@ -63,10 +63,10 @@ Connect with me:
       src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9a5a1ba99e507389dffdb51e2fe118064c64fd44/Images/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://sites.google.com/view/hasitha-gallella/home" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9a5a1ba99e507389dffdb51e2fe118064c64fd44/Images/WebSite.svg"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://medium.com/@hbgallella" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9a5a1ba99e507389dffdb51e2fe118064c64fd44/Images/Medium.svg"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/Medium2.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
