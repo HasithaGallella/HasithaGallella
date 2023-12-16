@@ -66,7 +66,7 @@ Connect with me:
       src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://medium.com/@hbgallella" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/Medium2.svg"
+      src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Med.png?raw=true"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
