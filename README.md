@@ -5,12 +5,13 @@
 --->
 
 <div align="center">
-  <img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" width="200" height="100"/>
+  <h3 align="left"> My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, coding, and a strong grasp of data structures and algorithms. Additionally, I am well-versed in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.</h3>
+  <img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" width="200" height="100"/>
 </div>
 
 <p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
+<img align="left" src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
 
 - I’m looking to collaborate on CVPR projects.
 
