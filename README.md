@@ -1,21 +1,30 @@
 <h1 align="center"> Hi, I'm Hasitha Gallella, an Engineering undergraduate in the ENTC department, University of Moratuwa, Sri Lanka. </h1>
 
+<p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" alt="adam-pw" width="300" height="150"/></p>
+
+My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, coding, and a strong grasp of data structures and algorithms. Additionally, I am well-versed in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<!---
 <table>
 <tr>
   
 <td>
-  <img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" width="300" height="150"/>
 </td>
   
 <td>
-My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, coding, and a strong grasp of data structures and algorithms. Additionally, I am well-versed in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
 </td>
 
 </tr>
 </table>
+--->
 
-
-<p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
+<p><img align="left" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
 <img src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
 
