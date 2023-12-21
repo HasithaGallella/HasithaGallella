@@ -39,15 +39,20 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 ###
 <details>
     <summary><b> 📚 My Articles </b></summary><br/>
-    <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif"/>
+    <b>-Medium; https://medium.com/@hbgallella </b><br/>
+    <b>-GitHub; https://github.com/Articles-by-Hasitha-Gallella </b>
 </details>
 <details>
     <summary><b> 🛠️ My projects 🏼</b></summary><br/>
+    <b>-BioSense-AI; https://github.com/BioSense-AI  </b><br/>
+    <b>-Cosmo-Robot; https://github.com/Cosmo-Robot  </b><br/>
+    <b>-HyperTalk-Computer-Vision; https://github.com/HyperTalk-Computer-Vision  </b><br/>
     <b>-My AI chat bot; https://t.me/Gale_AI_Chatbot  </b><br/>
-    <b>-My YouTube channel; https://www.youtube.com/channel/UCS0qEplNFtfbG6gbGySLybQ</b>
+    <b>-Smarty-Plug; https://github.com/Smarty-Plug</b>
 </details>
 <details>
     <summary><b> ✨ My other works</b></summary><br/>
+    <b>-My AI chat bot; https://t.me/Gale_AI_Chatbot  </b><br/>
     <b>-My YouTube channel; https://www.youtube.com/channel/UCS0qEplNFtfbG6gbGySLybQ</b>
 </details>
 
