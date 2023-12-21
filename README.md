@@ -1,9 +1,7 @@
 <h3 align="left"> Hi, I'm Hasitha Gallella, an Engineering undergraduate in the ENTC department, University of Moratuwa, Sri Lanka, </h3>
-<p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" alt="adam-pw" width="300" height="150"/></p>
+
 My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, coding, and a strong grasp of data structures and algorithms. Additionally, I am well-versed in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
-<br/>
-<br/>
-<br/>
+
 <img src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
 
 
@@ -21,7 +19,7 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 </table>
 --->
 
-<p><img align="left" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
 🛠️ I’m looking to collaborate on CVPR projects.
 
@@ -129,8 +127,8 @@ Languages and Tools:
       height="40" /> </a> 
 </p>
 
+<p><img align="center" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" alt="adam-pw" width="300" height="150"/></p>
 
----
 ### My Project repositories :
 
 <!---
