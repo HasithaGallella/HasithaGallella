@@ -24,6 +24,7 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 🛠️ I’m looking to collaborate on CVPR projects.
 
 - Gesture Recognition: Recognizing human gestures for various applications, such as gaming or controlling electronic devices.
+  
 -  Image Segmentation: Dividing an image into segments or regions based on certain criteria.In medical imaging, where it can be used to identify and analyze specific structures or abnormalities.
 <!---
 - :mailbox:How to reach me: 
