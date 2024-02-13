@@ -1,6 +1,6 @@
 <h3 align="left"> Hi, I'm Hasitha Gallella, an Engineering undergraduate in the ENTC department, University of Moratuwa, Sri Lanka, </h3>
 
-My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, coding, and a strong grasp of data structures and algorithms. Additionally, I am working in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
+My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, Signal processing, coding, data structures, and algorithms. Additionally, I am working in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
 
 <img src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
 
