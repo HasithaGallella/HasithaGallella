@@ -23,19 +23,10 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 
 🛠️ I’m looking to collaborate on CVPR projects.
 
-- Gesture Recognition: Recognizing human gestures for various applications, such as gaming or controlling electronic devices.
-  
--  Image Segmentation: Dividing an image into segments or regions based on certain criteria.In medical imaging, where it can be used to identify and analyze specific structures or abnormalities.
-<!---
-- :mailbox:How to reach me: 
-
-<div id="badges">
- <a href="https://t.me/HB_Academy">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
---->
-- Object Detection: Locating and classifying multiple objects within an image. Applications include autonomous vehicles, where the system must identify pedestrians, cars, and other obstacles.
+- Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices.  
+- Image Segmentation, Object Detection, and vision-based projects: Developing algorithms for analyzing images with segments or regions, based on certain criteria. In medical imaging identifying and analyzing specific structures or abnormalities.  Locating objects and detections through camera feeds.
+- Signal processing and deep learning-based projects: Filtering and enhancing signals, Sequential models to analyze signals, LSTMs, Bi-LSTMs,  RNNs, Transformers, and projects on NLP.
+- ROS-based robotic projects: Love to work with Jetson Nano, Raspberry Pi, Orange Pi, and other Linux SBCs (Single Board Computers) implementing Deep Neural Networks for Vision tasks on Robotics projects: 3D point cloud-based autonomous navigation tasks.
   
 ###
 <details>
