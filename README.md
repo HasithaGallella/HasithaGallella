@@ -21,7 +21,7 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 
 <p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
-🛠️ I’m looking to collaborate on CVPR, Deep learning, Signal Processing and Robotics projects.
+🛠️ I’m looking to collaborate on CVPR, Deep learning, Signal Processing, and Robotics projects;
 
 - Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices.  
 - Image Segmentation, Object Detection, and vision-based projects: Developing algorithms for analyzing images with segments or regions, based on certain criteria. In medical imaging identifying and analyzing specific structures or abnormalities.  Locating objects and detections through camera feeds.
