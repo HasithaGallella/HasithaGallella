@@ -31,67 +31,61 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 ###
 <details>
     <summary><b> 🛠️ My projects 🏼</b></summary><br/>
-    <b>-Robot-LUNA; https://github.com/LUNA-Vision-based-Restaurant-Robot </b><br/>
-    <b>-BioSense-AI; https://github.com/BioSense-AI  </b><br/>
-    <b>-Cosmo-Robot; https://github.com/Cosmo-Robot  </b><br/>
-    <b>-Smarty-Plug; https://github.com/Smarty-Plug</b><br/>
-    <b>-My AI chat bot; https://t.me/Gale_AI_Chatbot  </b><br/>
-    <b>-HyperTalk-Computer-Vision; https://github.com/HyperTalk-Computer-Vision  </b>
+  <b>-Robot-LUNA: Vision-based Restaurant Robot- https://github.com/LUNA-Vision-based-Restaurant-Robot - April 2024  </b><br/>
+ 
+  * "Robot LUNA", a waiter robot, uses a dual camera setup (wide-angle camera and a Kinect-2 depth camera) for
+  3D point cloud-based navigation in restaurants. Its enhanced stability circuits ensure safe food delivery without
+  spillage. Internally, it uses three Raspberry Pis for parallel processing and an Atmega2560-based custom PCB to
+  get sensor/encoder readings and to control motor drivers. It communicates with a restaurant’s Computer server
+  with ROS 1 Noetic via local wifi for path planning and precise navigation to order locations. This makes LUNA
+  a reliable and efficient addition to the restaurant staff.
   
-• Robot LUNA: Vision-based Restaurant Robot April 2024
-Vision-based navigation with dual camera setup- HD wide-angle camera and a Kinect-2 depth camera 2
-– "Robot LUNA", a waiter robot, uses a dual camera setup (wide-angle camera and a Kinect-2 depth camera) for
-3D point cloud-based navigation in restaurants. Its enhanced stability circuits ensure safe food delivery without
-spillage. Internally, it uses three Raspberry Pis for parallel processing and an Atmega2560-based custom PCB to
-get sensor/encoder readings and to control motor drivers. It communicates with a restaurant’s Computer server
-with ROS 1 Noetic via local wifi for path planning and precise navigation to order locations. This makes LUNA
-a reliable and efficient addition to the restaurant staff.
-– Tools & technologies used: ROS 1 Noetic, TensorFlow, OpenCV, Open3D, C++ with Atmega2560 custom PCB
-for Motor and stability Control, Python with Raspberry Pi 4b - (3 SBCs), Kinect v2 depth camera
-  
-• BioSense-AI: ECG-PPG hardware and a Mobile App 2023 - present
-Pocket-size electronic device with a Mobile app to display and analyze Body signals with a Multi-Model 2
-– Project BioSense-AI is a both software - hardware project focusing on predicting diseases using ECG-PPG,
-temperature, and text prompts. Signals are amplified and filtered via our custom analog circuits, then fed to
-Orange Pi Zero 2W SBC from an ADC to digital processing. The system uses a deep learning custom multi-model
-architecture with interpretability for accuracy and efficiency. Currently, we are developing a mobile app for user
-access to the AI model by scanning ECG reports and other prompts for hospitals without our electronic device.
-– Tools & technologies used: PyTorch, GradCAM, lime, Analog Filter Design, Setting up Orange Pi zero 2W SBC
-for custom tasks, I2C protocol, ADC, Flutter
+  * Tools & technologies used: ROS 1 Noetic, TensorFlow, OpenCV, Open3D, C++ with Atmega2560 custom PCB
+  for Motor and stability Control, Python with Raspberry Pi 4b - (3 SBCs), Kinect v2 depth camera
 
-• HyperTalk: Deep learning based Sign Language translating Mobile App 2022 - present
-Real-time bidirectional sign language translating AI tool for deaf and speech-impaired individuals 2
-– HyperTalk mobile app and the website both are computer vision-based solutions to facilitate communication in
+  <b>-BioSense-AI: ECG-PPG hardware and a Mobile App https://github.com/BioSense-AI 2023 - present </b><br/>
+  * Pocket-size electronic device with a Mobile app to display and analyze Body signals with a Multi-Model 2
+  * Project BioSense-AI is a both software - hardware project focusing on predicting diseases using ECG-PPG,
+  temperature, and text prompts. Signals are amplified and filtered via our custom analog circuits, then fed to
+  Orange Pi Zero 2W SBC from an ADC to digital processing. The system uses a deep learning custom multi-model
+  architecture with interpretability for accuracy and efficiency. Currently, we are developing a mobile app for user
+  access to the AI model by scanning ECG reports and other prompts for hospitals without our electronic device.
+  * Tools & technologies used: PyTorch, GradCAM, lime, Analog Filter Design, Setting up Orange Pi zero 2W SBC
+  for custom tasks, I2C protocol, ADC, Flutter
+
+<b>-HyperTalk-Computer-Vision: Deep learning-based Sign Language translating Mobile App https://github.com/HyperTalk-Computer-Vision 2022 - present </b>
+* Real-time bidirectional sign language translating AI tool for deaf and speech-impaired individuals 2
+* HyperTalk mobile app and the website both are computer vision-based solutions to facilitate communication in
 sign language for individuals with hearing and talking issues. Which is capable of real-time translation in both
 directions:
 1] Sign language camera feed to Voice.
 2] Voice feed to sign language animations.
-– Ongoing focus is on enhancing the first feature with a new continuous Word-level Sign Language Recognition
+* Ongoing focus is on enhancing the first feature with a new continuous Word-level Sign Language Recognition
 model that is capable of more accurate and faster translations with different sign language options for different
 regions in the world - Based on the following Data sets:
 > Phoenix 2014 Dataset (German Sign Language Videos)
 > OpenASL Dataset (American Sign Language Videos)
 > CSL Dataset (Chinese Sign Language Videos)
 > BOBSL Dataset (British Sign Language Videos)
-– Tools & technologies used: PyTorch, CUDA, ONNX, Flutter, OpenCV, Django back-end development
+* Tools & technologies used: PyTorch, CUDA, ONNX, Flutter, OpenCV, Django back-end development
 
-• Smarty Plug: IoT smart extension cord December 2022
-IoT-enabled extension cord with smart controls, offering voice commands and scheduling 2
-– Smarty Plug is an IoT-integrated smart extension cord powered by ESP8266 and Atmega328 which is designed
+<b>-Smarty-Plug: IoT smart extension cord https://github.com/Smarty-Plug  December 2022</b><br/>
+* IoT-enabled extension cord with smart controls, offering voice commands and scheduling 2
+* Smarty Plug is an IoT-integrated smart extension cord powered by ESP8266 and Atmega328 which is designed
 with the following features:
 > Voice Controlling - supports Google Assistant and Amazon Alexa
 > Controlling by Mobile Phone - using Google Home
 > Scheduling - by connecting to Google Calendar
 > USB Adaptive Charging
-– Tools & technologies used: Altium PCB designing, Atmega328p and ESP8266 coding, Solid Works, Platform IO
+* Tools & technologies used: Altium PCB designing, Atmega328p and ESP8266 coding, Solid Works, Platform IO
 
-• Cosmo Robot May 2023
-Designed to showcase various capabilities with a robot hand, Arduino Mega 2560, and Robotic sensors 2
-– "Cosmo" robot is designed to showcase various capabilities, including precise line following, obstacle avoidance
+<b>-Cosmo-Robot; https://github.com/Cosmo-Robot  May 2023 </b><br/>
+* Designed to showcase various capabilities with a robot hand, Arduino Mega 2560, and Robotic sensors 2
+* "Cosmo" robot is designed to showcase various capabilities, including precise line following, obstacle avoidance
 during line following, navigating ramps at 20 - 30 degrees, interacting with objects using a mechanical arm, sound
 sensitivity, color detection, and maze-solving capabilities. Additionally, it was programmed to avoid other robots
 in the arena such as the guard robot, on its way to the final destination.
-– Tools & technologies used: Platform IO, Arduino Mega 2560 coding, Robotic sensors
+* Tools & technologies used: Platform IO, Arduino Mega 2560 coding, Robotic sensors
 
   
 </details>
