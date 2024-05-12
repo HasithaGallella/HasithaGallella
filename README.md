@@ -43,7 +43,7 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
   * Tools & technologies used: ROS 1 Noetic, TensorFlow, OpenCV, Open3D, C++ with Atmega2560 custom PCB
   for Motor and stability Control, Python with Raspberry Pi 4b - (3 SBCs), Kinect v2 depth camera
 
-  <b>-BioSense-AI: ECG-PPG hardware and a Mobile App https://github.com/BioSense-AI 2023 - present </b><br/>
+  <b>-BioSense-AI: ECG-PPG hardware and a Mobile App- https://github.com/BioSense-AI - 2023 - present </b><br/>
   * Pocket-size electronic device with a Mobile app to display and analyze Body signals with a Multi-Model 2
   * Project BioSense-AI is a both software - hardware project focusing on predicting diseases using ECG-PPG,
   temperature, and text prompts. Signals are amplified and filtered via our custom analog circuits, then fed to
@@ -53,7 +53,7 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
   * Tools & technologies used: PyTorch, GradCAM, lime, Analog Filter Design, Setting up Orange Pi zero 2W SBC
   for custom tasks, I2C protocol, ADC, Flutter
 
-<b>-HyperTalk-Computer-Vision: Deep learning-based Sign Language translating Mobile App https://github.com/HyperTalk-Computer-Vision 2022 - present </b>
+<b>-HyperTalk-Computer-Vision: Deep learning-based Sign Language translating Mobile App- https://github.com/HyperTalk-Computer-Vision - 2022 - present </b>
 * Real-time bidirectional sign language translating AI tool for deaf and speech-impaired individuals 2
 * HyperTalk mobile app and the website both are computer vision-based solutions to facilitate communication in
 sign language for individuals with hearing and talking issues. Which is capable of real-time translation in both
@@ -63,13 +63,18 @@ directions:
 * Ongoing focus is on enhancing the first feature with a new continuous Word-level Sign Language Recognition
 model that is capable of more accurate and faster translations with different sign language options for different
 regions in the world - Based on the following Data sets:
+
 > Phoenix 2014 Dataset (German Sign Language Videos)
+
 > OpenASL Dataset (American Sign Language Videos)
+
 > CSL Dataset (Chinese Sign Language Videos)
+
 > BOBSL Dataset (British Sign Language Videos)
+
 * Tools & technologies used: PyTorch, CUDA, ONNX, Flutter, OpenCV, Django back-end development
 
-<b>-Smarty-Plug: IoT smart extension cord https://github.com/Smarty-Plug  December 2022</b><br/>
+<b>-Smarty-Plug: IoT smart extension cord- https://github.com/Smarty-Plug - December 2022</b><br/>
 * IoT-enabled extension cord with smart controls, offering voice commands and scheduling 2
 * Smarty Plug is an IoT-integrated smart extension cord powered by ESP8266 and Atmega328 which is designed
 with the following features:
