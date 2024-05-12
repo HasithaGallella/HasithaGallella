@@ -31,6 +31,7 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 ###
 <details>
     <summary><b> 🛠️ My projects 🏼</b></summary><br/>
+    <b>-Robot-LUNA; https://github.com/LUNA-Vision-based-Restaurant-Robot </b><br/>
     <b>-BioSense-AI; https://github.com/BioSense-AI  </b><br/>
     <b>-Cosmo-Robot; https://github.com/Cosmo-Robot  </b><br/>
     <b>-Smarty-Plug; https://github.com/Smarty-Plug</b><br/>
