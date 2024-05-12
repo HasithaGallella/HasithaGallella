@@ -58,8 +58,11 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 * HyperTalk mobile app and the website both are computer vision-based solutions to facilitate communication in
 sign language for individuals with hearing and talking issues. Which is capable of real-time translation in both
 directions:
+
 1] Sign language camera feed to Voice.
+
 2] Voice feed to sign language animations.
+
 * Ongoing focus is on enhancing the first feature with a new continuous Word-level Sign Language Recognition
 model that is capable of more accurate and faster translations with different sign language options for different
 regions in the world - Based on the following Data sets:
