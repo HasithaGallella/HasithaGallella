@@ -78,10 +78,15 @@ regions in the world - Based on the following Data sets:
 * IoT-enabled extension cord with smart controls, offering voice commands and scheduling 2
 * Smarty Plug is an IoT-integrated smart extension cord powered by ESP8266 and Atmega328 which is designed
 with the following features:
+
 > Voice Controlling - supports Google Assistant and Amazon Alexa
+
 > Controlling by Mobile Phone - using Google Home
+
 > Scheduling - by connecting to Google Calendar
+
 > USB Adaptive Charging
+
 * Tools & technologies used: Altium PCB designing, Atmega328p and ESP8266 coding, Solid Works, Platform IO
 
 <b>-Cosmo-Robot; https://github.com/Cosmo-Robot  May 2023 </b><br/>
