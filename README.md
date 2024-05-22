@@ -120,18 +120,9 @@ Connect with me:
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
   <a href="https://linkedin.com/in/hasitha-gallella" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-<!---
-  <a href="https://www.facebook.com/HB-Academy-Sri-Lanka-104519445261512/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/h_b_academy?utm_medium=copy_link" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
---->
   <a href="https://www.hackerrank.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9a5a1ba99e507389dffdb51e2fe118064c64fd44/Images/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
@@ -141,6 +132,14 @@ Connect with me:
  <a href="https://medium.com/@hbgallella" target="blank"><img align="center"
       src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Med.png?raw=true"
       alt="adampithewan" height="30" width="40" /></a>
+  <!---
+  <a href="https://www.facebook.com/HB-Academy-Sri-Lanka-104519445261512/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://instagram.com/h_b_academy?utm_medium=copy_link" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+--->
 </p>
 
 <!---
