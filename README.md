@@ -190,11 +190,12 @@ Languages and Tools:
       height="40" /> </a> 
 </p>
 
+<!---
 <p><img align="center" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Cat.gif?raw=true" alt="adam-pw" width="300" height="150"/></p>
 
 ### My Project repositories :
 
-<!---
+
 HasithaGallella/HasithaGallella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
