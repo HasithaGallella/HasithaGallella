@@ -1,6 +1,6 @@
 <h3 align="left"> Hi, I'm Hasitha Gallella, an Engineering undergraduate in the ENTC department, University of Moratuwa, Sri Lanka, </h3>
 
-My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, Signal processing, coding, data structures, and algorithms. Additionally, I am working in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
+My interests lie in AI, particularly focusing on Computer Vision and Pattern Recognition research. I have a solid foundation in making electronics, Computer Hardware, Signal processing, coding, data structures, and algorithms. Additionally, I am working in the fields of Deep Learning and Machine Learning. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
 
 <img src="https://komarev.com/ghpvc/?username=HasithaGallella&style=flat-square&color=blue" alt=""/>
 
@@ -21,11 +21,10 @@ My interests lie in CVPR, focusing on Computer Vision and Pattern Recognition re
 
 <p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
-🛠️ I’m looking to collaborate on CVPR, Deep learning, Signal Processing, and Robotics projects;
+🛠️ I’m looking to collaborate on CVPR, Multimodal Large Language Models, 3D Foundation Models, Signal and image Processing, and Vision-based Robotics projects;
 
-- Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices.  
-- Image Segmentation, Object Detection, and vision-based projects: Developing algorithms for analyzing images with segments or regions, based on certain criteria. In medical imaging identifying and analyzing specific structures or abnormalities.  Locating objects and detections through camera feeds.
-- Signal processing and deep learning-based projects: Filtering and enhancing signals, Sequential models to analyze signals, LSTMs, Bi-LSTMs,  RNNs, Transformers, and projects on NLP.
+- Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices. 4D vision-based MLLMs and related research.
+- Signal processing based projects: Filtering and enhancing signals, Sequential models to analyze signals, LSTMs, Bi-LSTMs,  RNNs, Transformers, and projects on NLP.
 - ROS-based robotic projects: Love to work with Jetson Nano, Raspberry Pi, Orange Pi, and other Linux SBCs (Single Board Computers) implementing Deep Neural Networks for Vision tasks on Robotics projects: 3D point cloud-based autonomous navigation tasks.
   
 ###
