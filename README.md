@@ -23,8 +23,8 @@ My interests lie in AI, particularly focusing on Computer Vision and Pattern Rec
 
 🛠️ I’m looking to collaborate on CVPR, Multimodal Large Language Models, 3D Foundation Models, Signal and image Processing, and Vision-based Robotics projects;
 
-- Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices. 4D vision-based MLLMs and related research.
-- Signal processing based projects: Filtering and enhancing signals, Sequential models to analyze signals, LSTMs, Bi-LSTMs,  RNNs, Transformers, and projects on NLP.
+- Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices, including 4D vision-based MLLMs and related research.
+- Signal processing based projects: Filtering and enhancing signals, Sequential models to analyze signals based on LSTMs, Bi-LSTMs,  RNNs, Transformers, and projects on NLP.
 - ROS-based robotic projects: Love to work with Jetson Nano, Raspberry Pi, Orange Pi, and other Linux SBCs (Single Board Computers) implementing Deep Neural Networks for Vision tasks on Robotics projects: 3D point cloud-based autonomous navigation tasks.
   
 ###
