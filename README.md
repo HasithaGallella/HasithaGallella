@@ -84,21 +84,20 @@ I am an Engineering undergraduate in the Department of Electronic and Telecommun
   #### 🤖 Deep Learning Frameworks  
   <p align="left">
   <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://onnx.ai/" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/ONNX.jpeg" alt="onnx" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/></a>
-  <span style="font-size: 16px; font-weight: 600;">🟦 ONNX</span>
   </p>
 
 </details>
 
 ---
 
-
 ### 🌐 Get In Touch  
 <p align="left">
-<a href="https://linkedin.com/in/hasitha-gallella" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://hasithagallella.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@hbgallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Med.png?raw=true" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="**[YOUR GOOGLE SCHOLAR PROFILE LINK]**" target="_blank"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="**[YOUR HUGGING FACE PROFILE LINK]**" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FF735D" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasitha-gallella" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg" height="40" width="30" /></a>&nbsp;&nbsp;
+<a href="https://hasithagallella.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg" height="40" width="30" /></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/Gallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/hf-logo.png?raw=true" height="40" width="45" /></a>
+<a href="https://medium.com/@hbgallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/medium-purple.png?raw=true" height="40" width="45" /></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=LdPp0qAAAAAJ&hl=en" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/google-scholar.png?raw=true" height="35" width="45" /></a>&nbsp;&nbsp;
 </p>
