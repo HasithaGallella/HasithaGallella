@@ -12,7 +12,7 @@ I am an Engineering undergraduate in the Department of Electronic and Telecommun
 - **Joint-Embedding Predictive Architectures (JEPA)** for Foundation AI Models
 
 ---
-
+<!--
 <details>
   <summary><b>🛠️ Selected Projects</b></summary><br/>
 
@@ -43,6 +43,8 @@ I am an Engineering undergraduate in the Department of Electronic and Telecommun
 </details>
 
 ---
+-->
+
 <details>
 
 <summary><b>⚙️ Technical Skills </b></summary><br/>
@@ -59,13 +61,15 @@ I am an Engineering undergraduate in the Department of Electronic and Telecommun
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
   </p>
-  
+
+  <!--
   #### 🧾 Markup & Scripting  
   <p align="left">
   <span style="font-size: 16px; font-weight: 600;">🟩 LaTeX</span>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   </p>
+  -->
   
   #### ⚙️ Frameworks  
   <p align="left">
@@ -90,9 +94,11 @@ I am an Engineering undergraduate in the Department of Electronic and Telecommun
 ---
 
 
-### 🌐 Connect with Me  
+### 🌐 Get In Touch  
 <p align="left">
-  <a href="https://linkedin.com/in/hasitha-gallella" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg" height="30" width="40" /></a>
-  <a href="https://hasithagallella.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@hbgallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Med.png?raw=true" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasitha-gallella" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://hasithagallella.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@hbgallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Med.png?raw=true" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="**[YOUR GOOGLE SCHOLAR PROFILE LINK]**" target="_blank"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="**[YOUR HUGGING FACE PROFILE LINK]**" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FF735D" height="30" width="40" /></a>
 </p>
