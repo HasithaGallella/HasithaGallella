@@ -95,9 +95,10 @@ I am an Engineering undergraduate in the Department of Electronic and Telecommun
 
 ### 🌐 Get In Touch  
 <p align="left">
-<a href="https://linkedin.com/in/hasitha-gallella" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg" height="40" width="30" /></a>&nbsp;&nbsp;
-<a href="https://hasithagallella.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg" height="40" width="30" /></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/Gallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/hf-logo.png?raw=true" height="40" width="45" /></a>
-<a href="https://medium.com/@hbgallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/medium-purple.png?raw=true" height="40" width="45" /></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=LdPp0qAAAAAJ&hl=en" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/google-scholar.png?raw=true" height="35" width="45" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/hasitha-gallella" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg" height="40" width="40" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+<a href="https://hasithagallella.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/545650cc5a7170efe70d683d58af3f858a967f59/Images/portfolio.svg" height="40" width="40" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/Gallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/hf-logo.png?raw=true" height="40" width="45" style="vertical-align: middle;" /></a>
+<a href="https://medium.com/@hbgallella" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/medium-purple.png?raw=true" height="45" width="45" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=LdPp0qAAAAAJ&hl=en" target="_blank"><img src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/google-scholar.png?raw=true" height="45" width="55" style="vertical-align: middle;" /></a>&nbsp;&nbsp;
+
 </p>
