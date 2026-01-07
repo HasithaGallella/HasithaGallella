@@ -2,6 +2,8 @@
 
 I am an Engineering undergraduate in the Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa, Sri Lanka. I have a solid foundation in **Making Electronics, Computer Hardware, Communication systems, Signal processing, Image Processing and Computer vision**. Additionally, I am working in the fields of **Computer vision and Deep Learning Research**. I'm eager to apply and expand my knowledge in these areas as I continue to learn and grow in the field.
 
+Portfolio: [hasithagallella.github.io](https://hasithagallella.github.io/)
+
 ---
 
 ### 🔍 Research & Technical Interests
